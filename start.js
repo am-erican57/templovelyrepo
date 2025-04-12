@@ -1062,31 +1062,34 @@ var arkoseLabsClientApic8d562b3;
             }
         }(ne);
         var Q = function() {
-                var e = !0;
-                return function(t, n) {
-                    var r = 318,
-                        o = e ? function() {
-                            if (n) {
-                                var e = n[Z(r)](t, arguments);
-                                return n = null, e
-                            }
-                        } : function() {};
-                    return e = !1, o
-                }
-            }(),
-            ee = Q(void 0, (function() {
-                var e = 331,
-                    t = 346,
-                    n = 294,
-                    r = 332,
-                    o = 303,
-                    i = 314,
-                    a = 331,
-                    c = 294,
-                    s = Z;
-                return ee[s(332) + "ng"]()[s(e)](s(t) + s(n))[s(r) + "ng"]()[s(o) + s(i)](ee)[s(a)](s(t) + s(c))
-            }));
-        ee();
+            var e = !0;
+            return function(t, n) {
+                var r = 318,
+                    o = e ? function() {
+                        if (n) {
+                            var e = n[Z(r)](t, arguments);
+                            return n = null, e
+                        }
+                    } : function() {};
+                return e = !1, o
+            }
+        }();
+        
+        var _eeFn = Q(void 0, function() {
+            var e = 331,
+                t = 346,
+                n = 294,
+                r = 332,
+                o = 303,
+                i = 314,
+                a = 331,
+                c = 294,
+                s = Z;
+            return _eeFn[s(332) + "ng"]()[s(e)](s(t) + s(n))[s(r) + "ng"]()[s(o) + s(i)](_eeFn)[s(a)](s(t) + s(c));
+        });
+        
+        var ee = _eeFn;
+        ee();        
         var te = function(e) {
             var t = 316,
                 n = Z;
