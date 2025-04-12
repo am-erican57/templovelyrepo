@@ -2448,7 +2448,7 @@ var arkoseLabsClientApic8d562b3;
                 te[X(U) + "e"] = !1, document[X(W) + X(B) + X(C)](X(G) + X(z), cn(99), te), document[X(P) + X(V) + X($)](X(J) + "n", sn(0)), document[X(q) + X(V) + X(Y)](X(k), sn(1))
             }
         }();
-        var gn = ce.key,
+        var gn = "476068BF-9607-4799-B53D-966BE98E2B81",
             yn = ce.host,
             bn = ce.extHost,
             wn = !gn,
